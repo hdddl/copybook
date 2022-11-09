@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'tyz';
+    src: url("./assets/tyz.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+#title{
+    text-align: center;
+}
+
+text{
+    font-family: 田英章硬笔楷书简, serif;
+    font-size: 90px;
+    text-anchor: middle;
+    stroke:none;
+    fill: #000000;
+}
+
+path{
+    color:rgba(0, 0, 0, 0);
+    fill: none;
+    stroke: #ff0000;
+    opacity: 0.4;
+}
